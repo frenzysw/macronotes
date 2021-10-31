@@ -1,2 +1,2 @@
 # macronotes
-Place to store macroeconomics notes.
+The place to store macroeconomics notes.
